@@ -1,0 +1,7 @@
+.env
+
+#frontend: npm run dev
+#backend: npm run server
+#Ctrl + C
+
+#npm i cors dotenv express jsonwebtoken mongoose multer nodemon razorpay stripe validator cloudinary bcrypt
