@@ -2,6 +2,7 @@
 
 #frontend: npm run dev
 #backend: npm run server
+#admin: npm run dev
 #Ctrl + C
 
 #npm i cors dotenv express jsonwebtoken mongoose multer nodemon razorpay stripe validator cloudinary bcrypt
