@@ -92,7 +92,7 @@ export const assets = {
 }
 
 export const categories = [
-    "Novel",
+   "Novel",
    "Children",
    "Fiction",
    "Romance",

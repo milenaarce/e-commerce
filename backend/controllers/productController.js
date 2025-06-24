@@ -29,8 +29,8 @@ const addProduct = async (req, res) => {
         const productData = {
             name,
             description, 
-            category,
             price: Number(price),
+            category,
             genre, 
             bestseller: bestseller === "true" ? true : false, 
             language: JSON.parse(language),
